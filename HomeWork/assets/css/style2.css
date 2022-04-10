@@ -1,0 +1,10 @@
+body{
+    height: 5000px;
+}
+
+.big {
+    height: 40px;
+    background-color: gray;
+    position: sticky;
+    top: 0;
+}
